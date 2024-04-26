@@ -1,0 +1,7 @@
+<!-- Example SVG structure for a few countries in your assets folder -->
+<svg>
+  <path id="DE" d="..."></path> 
+  <path id="FR" d="..."></path> 
+  <path id="ES" d="..."></path> 
+
+</svg>
